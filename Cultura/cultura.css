@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    margin: auto;
+}
+
+.dd{
+    display: flex;
+    text-align: justify;
+}
+
+h2{
+    color: rgb(223, 39, 39);
+}
+
+h1{
+    color: rgb(26, 79, 194);
+}
+
+.aa{
+    text-align: justify;
+    width: 800px;
+}
